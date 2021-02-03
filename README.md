@@ -7,6 +7,8 @@ is a simple chat that was built with entire javascript technologies, for the fro
 - Nodejs
   - Express
   - Socket.io
+  -a
+    -a
 - Mongodb
 
 # Links and Resources used in this project
